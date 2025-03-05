@@ -1,0 +1,182 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Huzaifa's Homepage</title>
+        <style>
+            body{
+                background-color:#b4cae0;  
+                font-family: Helvetica;
+            }
+            
+            h1 {
+                color: #0D0DD9;
+            }
+            
+            h2 {
+                color: #2D0DD6;
+            }
+            
+            h3 {
+                color: #0D0DD9;
+            }
+            
+            img.profilePic {
+                width: 250px;
+            }
+            
+            #css {
+                font-style: italic;
+                color: #BB00CC;
+            }
+            
+            p {
+                font-size: 18px;
+            }
+            
+            canvas {
+                border: 1px solid black;
+                background-color: white;
+            }
+        </style>
+    </head>
+    <body>
+        <main>
+            <h1>Welcome to Huzaifa's Homepage</h1>
+            <h2>I love BigSur!</h2>
+           <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13360.077945500874!2d-121.8129364!3d36.2694284!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808d8ffb4da45855%3A0x16a5d7c7f1b7e362!2sBig+Sur%2C+CA+93920!5e1!3m2!1sen!2sus!4v1500934629666"></iframe>
+            
+            <p>I love cars, and coding. I am 15 years old. I attend Ecole Mctavish High School <a href="https://codehs.com/info/curriculum/web_design">Web Design</a> with CodeHS!</p>
+            
+            <p>I was born in Fort McMurray, Alberta, and still live here till this day</p>
+            
+            <p> The following is a game I love within CodeHS: </p>
+                    <iframe width="850" height="500" src="https://codehs.com/sandbox/mattarnold/word-guessing-game/embed/?display_mode=default&show_file_tree=False" frameborder="0" allowfullscreen class="video-iframe"></iframe>
+            
+            <p>I am going on vacation in a few days to the <a href="https://www.bahamas.com/">Bahamas</a> in which I will discover my favourite animal!
+            </p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/9Rbde7lwcUo?si=RCQdRZtxMGUlWsjA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+           
+            
+            <h2>About my Homepage</h2>
+            
+            <p>As I go through the CodeHS Web Design course, I'll be updating my homepage
+                with all of my latest dates. NOTE: I'll be busy!
+            </p>
+            
+           
+        </main>
+        <section>
+            <h3>Personal Calendar</h3>
+            <p>This is a calendar I made using HTML!</p>
+            
+            <h4>November 2016</h4>
+            <table border="1">
+              <tr>
+                <th>Sunday</th>
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+                <th>Saturday</th>
+              </tr>
+              <tr>
+                <td> DAY 1 - HOTEL ROOM: TIRED AND RESTED </td>
+                <td>DAY 2 - WENT TO THE RESORT</td>
+                 <td>DAY 3 - WENT TO THE RESORT</td>
+                <td>DAY 4 - WENT TO THE RESORT</td>
+                  <td>DAY 5 - WENT TO THE RESORT</td>
+                <td>DAY 4
+                  <ul>
+                    <li>Dad's Birthday</li>
+                    <li>Went out to Dinner and went to the city.</li>
+                  </ul></td>
+                <td> DAY 5
+                  <ul>
+                    <li>Went to go visit the Pterosaurs - First species</li>
+                  </ul></td>
+              </tr>
+              <tr>
+                <td> DAY 6
+                  <ul>
+                    <li>Went to go visit the Pterosaurs - First species</li>
+                  </ul></td>
+                <td>DAY 7 - LAST DAY IN BAHAMAS</td>
+                <td>
+                  <ul>
+                    <li>Day 8 - BACK TO SCHOOL</li>
+                  </ul></td>
+                <td>Day 9 - BACK TO SCHOOL</td>
+                <td>DAY 10 -  BACK TO SCHOOL</td>
+                <td>DAY 11 - BACK TO SCHOOL
+                  <ul>
+                    <li>Go to Macisland</li>
+                  </ul></td>
+                <td>12
+                  <ul>
+                    <li>National Pizza Day</li>
+                  </ul>
+                </td>
+              </tr>
+              <tr>
+                <td>13</td>
+                <td>14</td>
+                <td>15</td>
+                <td>16
+                  <ul>
+                    <li>International Day for Tolerance</li>
+                  </ul>
+                </td>
+                <td>17
+                  <ul>
+                    <li>Mom's Birthday</li>
+                  </ul>
+                </td>
+                <td>18</td>
+                <td>19</td>
+              </tr>
+              <tr>
+                <td>20</td>
+                <td>21</td>
+                <td>22</td>
+                <td>23</td>
+                <td>24
+                  <ul>
+                    <li>Thanksgiving</li>
+                  </ul></td>
+                <td>25</td>
+                <td>26</td>
+              </tr>
+              <tr>
+                <td>27</td>
+                <td>28
+                  <ul>
+                    <li>Cyber Monday</li>
+                  </ul></td>
+                <td>29
+                  <ul>
+                    <li>Giving Tuesday</li>
+                  </ul></td>
+                <td>30</td>
+                <td></td>
+                <td></td>
+                <td></td>
+              </tr>
+            </table>
+        </section>
+        
+        <section>
+            <h3>Please visit my other project:</h3>
+            <ul>
+               
+                <li><a href="https://codehs.com/student/3234639/section/666960/assignment/169242497">Embeded Video</a></li>
+                
+            </ul>
+        </section>
+        <footer>
+            
+        </footer>
+    </body>
+</html>
+
